@@ -46,3 +46,12 @@ body{
     
 }
 
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 13rem;
+    margin-right: 13rem;
+}
+
